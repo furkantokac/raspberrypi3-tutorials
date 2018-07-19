@@ -7,7 +7,5 @@
 * [Official Raspberry Pi Forum Bare metal, Assembly language](https://www.raspberrypi.org/forums/viewforum.php?f=72)
 
 * [Official documentation for the Raspberry Pi](https://github.com/raspberrypi/documentation)
-  
   * Configuration
-  
   * Hardware
